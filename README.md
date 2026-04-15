@@ -17,7 +17,7 @@ Analyser les facteurs qui influencent la performance des produits de beauté sur
 - 602 130 avis clients analysés
 - 250 produits distincts
 
-Période étudiée : 2011 – 2023
+Période étudiée : 2018 – 2023
 
 ---
 
@@ -41,19 +41,18 @@ Score_performance = 0.5 × Popularité (likes) + 0.5 × Satisfaction (rating)
 ---
 
 ## 💡 Principaux insights
-- Les produits exclusifs sont les plus performants
-- Les nouveautés performent moins que les produits installés
+- Les produits exclusifs sont les plus performants avec 93 du score
+- Les nouveautés performent moins que les produits installés 
 - Le prix optimal se situe entre 20 et 50 USD
 - Le volume d’avis augmente dans le temps, mais pas nécessairement la satisfaction
 
 ---
 
 ## 🚀 Recommandations
-- Mettre en avant les produits les mieux notés dans le parcours client
-- Développer des stratégies autour des produits exclusifs
-- Maintenir un positionnement prix optimal
-- Travailler la qualité produit en parallèle de la visibilité
-
+- Mettre en avant les produits les mieux notés dans les points clés du parcours client (homepage, fiches produits, recommandations) pour améliorer la conversion
+- Capitaliser sur les produits exclusifs comme levier de performance et de différenciation marketing
+- Maintenir un positionnement prix entre 20 et 50 USD, zone où performance et attractivité sont maximisées
+- Ne pas se limiter à augmenter la visibilité : renforcer la qualité produit pour stabiliser la satisfaction client dans le temps
 ---
 
 ## 📎 Fichiers
