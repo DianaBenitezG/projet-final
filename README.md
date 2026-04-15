@@ -53,14 +53,16 @@ Score_performance = 0.5 × Popularité (likes) + 0.5 × Satisfaction (rating)
 
 ---
 
-## 🛠️ Outils utilisés
-- Python (analyse exploratoire)
-- Power BI (modélisation et visualisation)
+## 📎 Fichiers
+dashboard_powerbi.pdf
+analysis_python.ipynb
+rapport_business.pdf
 
 ---
 
-## 📎 Fichiers
-- Dashboard Power BI (PDF)
-- Rapport d’analyse
-- Présentation finale
-- Notebook Python
+## 🛠️ Outils utilisés
+
+- Power BI (dashboard & visualisation)
+- Python (data cleaning & analysis)
+- SQL (data extraction)
+- Power Query (transformation des données)
