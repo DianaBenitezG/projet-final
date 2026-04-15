@@ -1,5 +1,8 @@
 # Analyse de la performance des produits – Sephora
 
+<img width="1435" height="809" alt="Capture d&#39;écran 2026-04-15 114409" src="https://github.com/user-attachments/assets/0b034b0e-9b21-40f4-970b-faebc99d22cd" />
+
+
 ## 📊 Contexte
 Projet réalisé dans le cadre de la formation Data Analyst.
 
