@@ -20,7 +20,7 @@ Analyser les facteurs qui influencent la performance des produits de beauté sur
 - 602 130 avis clients analysés
 - 250 produits distincts
 
-Période étudiée : 2018 – 2023
+Période étudiée : 2008 – 2023
 
 ---
 
@@ -68,6 +68,6 @@ rapport_business.pdf
 ## 🛠️ Outils utilisés
 
 - Power BI (dashboard & visualisation)
-- Python (data cleaning & analysis)
-- SQL (data extraction)
 - Power Query (transformation des données)
+- Python (analysis)
+
